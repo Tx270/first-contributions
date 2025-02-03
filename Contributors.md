@@ -1548,6 +1548,7 @@ rohitmhnty
 - [Sanay Doshi](https://github.com/sanayd)
 - [Naveen Kari](https://github.com/NaveenKari)
 - [Abisola Majeed](https://github.com/AbisolaMajeed)
+- [Tx270](https://github.com/Tx270)
 - [Aayushi Sinha](https://github.com/aayushi892)
 - [Aditya Joshi](https://github.com/adityajoshi692003)
 - [Naim Ahmad](https://github.com/Naim-Ahmad)
